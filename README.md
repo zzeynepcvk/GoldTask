@@ -20,7 +20,7 @@ GoldApiTask, gerçek zamanlı altın fiyatlarına göre dinamik olarak hesaplana
 - Frontend: React.js, Tailwind CSS  
 - API: Altın fiyatı için GoldAPI kullanımı  
 - Versiyon Kontrol: Git, GitHub  
-- Deployment: Vercel (frontend), Heroku/alternatif (backend)
+- Deployment: Vercel (frontend), Render (backend)
 
 ---
 
