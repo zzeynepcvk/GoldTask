@@ -7,7 +7,7 @@ function App() {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:3001/products')
+    axios.get('https://goldtask-1n34.onrender.com/products')
       .then(res => setProducts(res.data))
       .catch(err => console.error(err));
   }, []);
